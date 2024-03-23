@@ -2,7 +2,7 @@
 
 In this project, I will do analysis on [DEAOT model](https://arxiv.org/abs/2106.02638) to learn about tracking and segmentation simultaneously. Moreover, I trained the AOT model on the new dataset (**Cell Datasets**) and show the demo. 
 
-The instruction is provided in **Cell_Tracking.ipynb** to reproduce and verify the result.
+The instruction is provided in **Cell_Tracking.ipynb** to reproduce and verify the result. Demo videos are in assets folder.
 
 ## References
 ```
